@@ -346,6 +346,7 @@ git clone https://github.com/morrownr/8821cu-20210916.git
 #### Step 7: Move to the newly created driver directory
 
 ```
+sudo chmod -R 777 ~/src/8821cu-20210916
 cd ~/src/8821cu-20210916
 ```
 
